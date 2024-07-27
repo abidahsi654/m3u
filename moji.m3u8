@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:4
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF: BANDWIDTH=0, AVERAGE-BANDWIDTH=0 ,RESOLUTION=1920x1080,CODECS="avc1.64002A,mp4a.40.2".
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
+https://atemecdnbalancer-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
