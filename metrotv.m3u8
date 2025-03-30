@@ -1,8 +1,12 @@
 #EXTM3U
-#EXT-X-TARGETDURATION:1
-#EXT-X-MEDIA-SEQUENCE:0
-#EXT-X-ALLOW-CACHE:YES
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
-https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mpd/MetroTVHD.mpd
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=573055,AVERAGE-BANDWIDTH=520959,CODECS="avc1.640015,mp4a.40.2",RESOLUTION=480x270,FRAME-RATE=25.000
+https://why.biz.id/Iptv/oxygen.php?id=mentaritv
+#EXT-X-STREAM-INF:BANDWIDTH=1039455,AVERAGE-BANDWIDTH=944959,CODECS="avc1.64001e,mp4a.40.2",RESOLUTION=640x360,FRAME-RATE=25.000
+https://why.biz.id/Iptv/oxygen.php?id=mentaritv
+#EXT-X-STREAM-INF:BANDWIDTH=1505855,AVERAGE-BANDWIDTH=1368959,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=960x540,FRAME-RATE=25.000
+https://why.biz.id/Iptv/oxygen.php?id=mentaritv
+#EXT-X-STREAM-INF:BANDWIDTH=1855655,AVERAGE-BANDWIDTH=1686959,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=25.000
+https://why.biz.id/Iptv/oxygen.php?id=mentaritv
+#EXT-X-STREAM-INF:BANDWIDTH=3021655,AVERAGE-BANDWIDTH=2746959,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=1920x1080,FRAME-RATE=25.000
+https://why.biz.id/Iptv/oxygen.php?id=mentaritv
